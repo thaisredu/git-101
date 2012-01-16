@@ -5,3 +5,5 @@
 require File.expand_path('../config/application', __FILE__)
 
 GitPlay::Application.load_tasks
+
+add.function() 
